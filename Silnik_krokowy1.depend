@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1405938100 source:d:\programowanie_ssd\avr-rep\silnik_krokowy1\fuse.c
+	<avr/io.h>
+
+1405959044 source:d:\programowanie_ssd\avr-rep\silnik_krokowy1\main.c
+	<avr/io.h>
+	<util/delay.h>
+	"src\motor.h"
+
+1405939634 d:\programowanie_ssd\avr-rep\silnik_krokowy1\src\motor.h
+
+1405973069 source:d:\programowanie_ssd\avr-rep\silnik_krokowy1\src\motor.c
+	"motor.h"
+	<avr/io.h>
+	<util/delay.h>
+
+1405938100 source:d:\programowanie_ssd\avr\sliderfirmware\silnik_krokowy07lcd - kopia\fuse.c
+	<avr/io.h>
+
+1405938100 source:d:\programowanie_ssd\avr\sliderfirmware\sk014l_pad10\fuse.c
+	<avr/io.h>
+
+1407416284 source:d:\programowanie_ssd\avr\sliderfirmware\sk014l_pad10\src\adc.c
+	"ADC.h"
+
+1407415550 d:\programowanie_ssd\avr\sliderfirmware\sk014l_pad10\src\adc.h
+	<avr/io.h>
+
+1407418483 source:d:\programowanie_ssd\avr\sliderfirmware\sk014l_pad10\src\button.c
+	"button.h"
+
+1408202388 d:\programowanie_ssd\avr\sliderfirmware\sk014l_pad10\src\button.h
+	<avr/io.h>
+	<stdbool.h>
+	<util/delay.h>
+	"ADC.h"
+
+1330635841 source:d:\programowanie_ssd\avr\sliderfirmware\sk014l_pad10\src\hd44780.c
+	"HD44780.h"
+
+1408202257 d:\programowanie_ssd\avr\sliderfirmware\sk014l_pad10\src\hd44780.h
+	<avr/io.h>
+	<util/delay.h>
+
+1407681682 source:d:\programowanie_ssd\avr\sliderfirmware\sk014l_pad10\src\motor.c
+	"motor.h"
+
+1406725876 d:\programowanie_ssd\avr\sliderfirmware\sk014l_pad10\src\motor.h
+	<avr/io.h>
+	<util/delay.h>
+	<stdbool.h>
+
+1408351975 source:d:\programowanie_ssd\avr\sliderfirmware\sk014l_pad10\main.c
+	<avr/io.h>
+	<util/delay.h>
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+	"src\motor.h"
+	"src\HD44780.h"
+	"src\button.h"
+	"src\ADC.h"
+	<avr/interrupt.h>
+	<avr/pgmspace.h>
+
+1405938100 source:d:\programowanie_ssd\avr\sliderfirmware\sk014l_pad13\fuse.c
+	<avr/io.h>
+
+1407416284 source:d:\programowanie_ssd\avr\sliderfirmware\sk014l_pad13\src\adc.c
+	"ADC.h"
+
+1407415550 d:\programowanie_ssd\avr\sliderfirmware\sk014l_pad13\src\adc.h
+	<avr/io.h>
+
+1407418483 source:d:\programowanie_ssd\avr\sliderfirmware\sk014l_pad13\src\button.c
+	"button.h"
+
+1408202388 d:\programowanie_ssd\avr\sliderfirmware\sk014l_pad13\src\button.h
+	<avr/io.h>
+	<stdbool.h>
+	<util/delay.h>
+	"ADC.h"
+
+1330635841 source:d:\programowanie_ssd\avr\sliderfirmware\sk014l_pad13\src\hd44780.c
+	"HD44780.h"
+
+1408202257 d:\programowanie_ssd\avr\sliderfirmware\sk014l_pad13\src\hd44780.h
+	<avr/io.h>
+	<util/delay.h>
+
+1408443511 source:d:\programowanie_ssd\avr\sliderfirmware\sk014l_pad13\src\motor.c
+	"motor.h"
+
+1406725876 d:\programowanie_ssd\avr\sliderfirmware\sk014l_pad13\src\motor.h
+	<avr/io.h>
+	<util/delay.h>
+	<stdbool.h>
+
